@@ -1,15 +1,15 @@
 Package: nginx-rtmp
 Architecture: arm
-Installed-Size: 1076
+Installed-Size: 1096
 Maintainer: @muxfd
 Version: 1.25.1
 Homepage: https://www.nginx.org
 Depends: libandroid-glob, libcrypt, pcre, openssl, zlib
 Description: Lightweight HTTP server
 Filename: dists/termux/extras/binary-arm/nginx-rtmp_1.25.1_arm.deb
-Size: 375160
-MD5Sum: 2ef2fe0e2b8636b88ada081c5f5adcb0
-SHA1: 051d18f4b697553d368f099bc2fd3872335d61c8
-SHA256: 14036bc7282d3f8999281296c9aff2f54cc9c83277f6b78ac8eafadfee2f3de4
-SHA512: f23443b70da7e8aff4ae82b546fd96e8fc1feadab27bff44a0b05af2643ba4ff7527e56deb9253ecf181e783571e9813ee7a9184f4e2028d6d7645a5567d9acb
+Size: 382756
+MD5Sum: c3a825ef105aa5e0f70814921c6fdb11
+SHA1: 608885c8a89595e334fce8bf4cc4b12a651c3754
+SHA256: 1fac84abfb448e73bc423357ca35d809c91cc6176290a2dffcda45ec0f875c57
+SHA512: 45b737b00a93a1fc59a8fdc575db47b2175fdf507975283136de24234c553d2a7cb2c3a007b59b32deb17dc056cacb089d291fd855e23697722e42f4a50490db
 
