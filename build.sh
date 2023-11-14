@@ -21,7 +21,7 @@ termux_step_get_source() {
         termux_download "https://nginx.org/download/nginx-1.25.1.tar.gz" \
                 $TERMUX_PKG_CACHEDIR/nginx-1.25.1.tar.gz \
                 f09071ac46e0ea3adc0008ef0baca229fc6b4be4533baef9bbbfba7de29a8602
-        termux_download "https://github.com/arut/nginx-rtmp-module/archive/refs/tags/v1.2.2.tar.gz" \
+        termux_download "https://github.com/sergey-dryabzhinsky/nginx-rtmp-module/archive/refs/tags/v1.2.2-r1.tar.gz" \
                 $TERMUX_PKG_CACHEDIR/nginx-rtmp-module-1.2.2.tar.gz \
                 07f19b7bffec5e357bb8820c63e5281debd45f5a2e6d46b1636d9202c3e09d78
         mkdir -p $TERMUX_PKG_SRCDIR
